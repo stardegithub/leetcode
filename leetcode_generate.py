@@ -563,10 +563,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
             f.write(md)
 
     def push_to_github(self):
-        strdate = datetime.datetime.now().strftime('%Y-%m-%d')
+        #strdate = datetime.datetime.now().strftime('%Y-%m-%d')
         cmd_git_add = 'git add .'
         cmd_git_commit = 'git commit -m "update at {date}"'.format(
-            date=strdate
+            date=1#strdate
         )
         cmd_git_push = 'git push -u origin master'
         os.system(cmd_git_add)
