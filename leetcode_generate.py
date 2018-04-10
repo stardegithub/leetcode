@@ -564,12 +564,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
     def push_to_github(self):
         strdate = datetime.datetime.now().strftime('%Y-%m-%d')
-        print('1111111111111')
         cmd_git_add = 'git add .'
         cmd_git_commit = 'git commit -m "update at {date}"'.format(
             date=strdate
         )
-        print('2222222222222')
         cmd_git_push = 'git push -u origin master'
         os.system(cmd_git_add)
         os.system(cmd_git_commit)
