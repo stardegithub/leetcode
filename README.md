@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Csharp
-Update time:  2018-04-10 17:56:26
+Update time:  2018-04-10 18:00:21
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
@@ -8,7 +8,7 @@ while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
-If you have any question, please give me an [issue](https://github.com/stardegithub/leetcode.git/issues).
+If you have any question, please give me an [issue](git@github.com:stardegithub/leetcode.git/issues).
 
 If you are loving solving problems in leetcode, please contact me to enjoy it together!
 
@@ -16,8 +16,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
-|1|[two-sum](https://leetcode.com/problems/two-sum)|[Csharp](https://github.com/stardegithub/leetcode.git/blob/master/001-two-sum/two-sum.cs)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
-|2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[Csharp](https://github.com/stardegithub/leetcode.git/blob/master/002-add-two-numbers/add-two-numbers.cs)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
+|1|[two-sum](https://leetcode.com/problems/two-sum)|[Csharp](git@github.com:stardegithub/leetcode.git/blob/master/001-two-sum/two-sum.cs)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
+|2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[Csharp](git@github.com:stardegithub/leetcode.git/blob/master/002-add-two-numbers/add-two-numbers.cs)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
 |3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)||[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
