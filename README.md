@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Csharp
-Update time:  2018-04-10 17:47:14
+Update time:  2018-04-10 17:56:26
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
