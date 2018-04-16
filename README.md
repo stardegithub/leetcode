@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Csharp
-Update time:  2018-04-11 23:55:04
+Update time:  2018-04-16 16:51:48
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **4   /   730** problems
+I have solved **7   /   734** problems
 while there are **133** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -22,9 +22,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)||[:memo:](https://leetcode.com/articles/median-of-two-sorted-arrays/)|Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)|[Csharp](git@github.com:stardegithub/leetcode.git/blob/master/005-longest-palindromic-substring/longest-palindromic-substring.cs)|[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|||Medium|
-|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|||Easy|
-|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
-|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)||[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
+|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Csharp](git@github.com:stardegithub/leetcode.git/blob/master/007-reverse-integer/reverse-integer.cs)||Easy|
+|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[Csharp](git@github.com:stardegithub/leetcode.git/blob/master/008-string-to-integer-atoi/string-to-integer-atoi.cs)||Medium|
+|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Csharp](git@github.com:stardegithub/leetcode.git/blob/master/009-palindrome-number/palindrome-number.cs)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
@@ -746,3 +746,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |831|[largest-sum-of-averages](https://leetcode.com/problems/largest-sum-of-averages)||[:memo:](https://leetcode.com/articles/largest-sum-of-averages/)|Medium|
 |832|[binary-tree-pruning](https://leetcode.com/problems/binary-tree-pruning)||[:memo:](https://leetcode.com/articles/binary-tree-pruning/)|Medium|
 |833|[bus-routes](https://leetcode.com/problems/bus-routes)||[:memo:](https://leetcode.com/articles/bus-routes/)|Hard|
+|834|[ambiguous-coordinates](https://leetcode.com/problems/ambiguous-coordinates)||[:memo:](https://leetcode.com/articles/ambiguous-coordinates/)|Medium|
+|835|[linked-list-components](https://leetcode.com/problems/linked-list-components)||[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
+|836|[race-car](https://leetcode.com/problems/race-car)||[:memo:](https://leetcode.com/articles/race-car/)|Hard|
+|837|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
